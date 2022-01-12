@@ -1,0 +1,10 @@
+welcome to docker-compose project.
+
+
+1. here we are using ansible and docker as tools to deploy and create a django-python application.
+
+2.here ansible works as deployment tool.
+
+3.docker compose is used as orchasteration tool.
+
+
